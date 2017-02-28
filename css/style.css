@@ -1,0 +1,48 @@
+h1 {
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.tagline h1 {
+  font-weight: bold;
+  font-size: 42px;
+}
+
+video {
+  margin: auto;
+  display: block;
+}
+
+img {
+  margin: 20px auto;
+  display: block;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: verdana;
+  text-align: center;
+  display: block;
+  margin: 20px 0;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+  font-family: verdana;
+  text-align: center;
+}
+
+footer p {
+  display: block;
+  text-align: right;
+  color: gray;
+}
